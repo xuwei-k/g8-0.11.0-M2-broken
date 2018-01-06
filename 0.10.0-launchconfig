@@ -1,0 +1,9 @@
+[app]
+  version: 0.10.0
+  org: org.foundweekends.giter8
+  name: giter8
+  class: giter8.Giter8
+[scala]
+  version: 2.10.6
+[repositories]
+  maven-central
